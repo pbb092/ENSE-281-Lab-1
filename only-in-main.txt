@@ -1,1 +1,1 @@
-this file should only be seen in the main branch.
+This file should only show up in main.
